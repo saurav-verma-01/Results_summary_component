@@ -5,20 +5,17 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 ## Table of contents
 
 - [Welcome](#welcome)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
+- [Screenshot](#screenshot)
+- [Links](#links)
 - [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
+- [Built with](#built-with)
+- [What I learned](#what-i-learned)
+- [Continued development](#continued-development)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Welcome! 👋
 
-I've completed the front-end mentor challenge and created the component to look as close as possible to the design provided, made it responsive to web and mobile devices, following best practices, and focused on minute details.
+My Name is Saurav Kumar verma i've completed the front-end mentor challenge and created the component to look as close as possible to the design provided, made it responsive to web and mobile devices, following best practices, and focused on minute details.
 
 ### Screenshot
 
@@ -27,8 +24,8 @@ I've completed the front-end mentor challenge and created the component to look 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Saurav-98/Results_summary_component)
-- Live Site URL: [Add live site URL here](https://result-summary-saurav.netlify.app/)
+- [Solution URL](https://github.com/Saurav-98/Results_summary_component)
+- [Live Site URL](https://result-summary-saurav.netlify.app/)
 
 ## My process
 
@@ -49,3 +46,7 @@ The component is simple, but it took more time than I expected to get it complet
 ### Continued development
 
 However, I am satisfied with the end result and will continue to look over the code to make it more efficient as possible.
+
+## Author
+
+- [Saurav-98](https://github.com/Saurav-98)
