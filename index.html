@@ -17,8 +17,87 @@
     <title>Frontend Mentor | Results summary component</title>
   </head>
   <body>
-    <!-- Your Result 76 of 100 Great You scored higher than 65% of the people who
-    have taken these tests. Summary Reaction 80 / 100 Memory 92 / 100 Verbal 61
-    / 100 Visual 72 / 100 Continue -->
+    <div class="score-card">
+      <div class="score-display">
+        <h3 class="your-result">Your Result</h3>
+        <div class="score-circle">
+          <div class="score-circle-box">
+            <p class="score-circle-main">76</p>
+            <p class="score-circle-sub">of 100</p>
+          </div>
+        </div>
+        <h2 class="great">Great</h2>
+        <p class="score-text">
+          Your performance exceed 65% of the people conducting the test here!
+        </p>
+      </div>
+      <div class="score-details">
+        <h2 class="summary">Summary</h2>
+
+        <div class="details">
+          <div class="detail detail-1">
+            <div class="detail__logo-box">
+              <img
+                src="./assets//icon-reaction.svg"
+                alt="reaction icon"
+                class="detail__logo"
+              />
+            </div>
+            <span class="detail__title">Reaction</span>
+            <div class="detail__scores">
+              <span class="scored">80</span>
+              <span class="out-of">/ 100</span>
+            </div>
+          </div>
+
+          <div class="detail detail-2">
+            <div class="detail__logo-box">
+              <img
+                src="./assets/icon-memory.svg"
+                alt="reaction icon"
+                class="detail__logo"
+              />
+            </div>
+            <span class="detail__title">Memory</span>
+            <div class="detail__scores">
+              <span class="scored">92</span>
+              <span class="out-of">/ 100</span>
+            </div>
+          </div>
+
+          <div class="detail detail-3">
+            <div class="detail__logo-box">
+              <img
+                src="./assets/icon-verbal.svg"
+                alt="reaction icon"
+                class="detail__logo"
+              />
+            </div>
+            <span class="detail__title">Verbal</span>
+            <div class="detail__scores">
+              <span class="scored">61</span>
+              <span class="out-of">/ 100</span>
+            </div>
+          </div>
+
+          <div class="detail detail-4">
+            <div class="detail__logo-box">
+              <img
+                src="./assets/icon-visual.svg"
+                alt="reaction icon"
+                class="detail__logo"
+              />
+            </div>
+            <span class="detail__title">Visual</span>
+            <div class="detail__scores">
+              <span class="scored">73</span>
+              <span class="out-of">/ 100</span>
+            </div>
+          </div>
+        </div>
+
+        <a href="#" class="btn continue">Continue</a>
+      </div>
+    </div>
   </body>
 </html>
