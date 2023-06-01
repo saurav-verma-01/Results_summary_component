@@ -231,7 +231,7 @@ body {
 @media (width < 48em) {
   body {
     align-items: flex-start;
-    max-height: 36rem;
+    height: max-content;
   }
   .score-card {
     grid-template-columns: repeat(1, 1fr);
